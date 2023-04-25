@@ -1,4 +1,4 @@
-# Darkcoder
+# Pooja Prajapati
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/omkarwaje2504/darkcoder.git
+git remote add origin https://github.com/pooja-Prajapati31/pooja.dev
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/omkarwaje2504/darkcoder/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/pooja-Prajapati31/pooja.dev/-/settings/integrations)
 
 ## Collaborate with your team
 
