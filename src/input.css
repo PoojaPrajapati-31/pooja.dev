@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg{
+    background: rgb(192,250,252);
+    background: -moz-linear-gradient(347deg, rgba(192,250,252,1) 0%, rgba(255,205,251,1) 50%, rgba(198,245,255,1) 100%);
+    background: -webkit-linear-gradient(347deg, rgba(192,250,252,1) 0%, rgba(255,205,251,1) 50%, rgba(198,245,255,1) 100%);
+    background: linear-gradient(347deg, rgba(192,250,252,1) 0%, rgba(255,205,251,1) 50%, rgba(198,245,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#c0fafc",endColorstr="#c6f5ff",GradientType=1);
+}
+.stroke{
+    position: absolute;
+    transform: rotate(90deg);
+    transform: rotate3D(90deg);
+    -webkit-text-stroke-color: aliceblue;
+    -webkit-text-stroke-width: 1px ;
+    color: transparent;
+    transform:translate(91 682) rotate(-90);
+}
+.bg-exp{
+    background-image: url('./component/bg-exp.png');
+}
+.shadowinner{
+    box-shadow:inset 0 0 30px rgb(198, 197, 197);
+    
+}
